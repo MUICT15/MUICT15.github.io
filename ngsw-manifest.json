@@ -15,16 +15,18 @@
       "/assets/Images/16406665_1738459213134539_3337966289851666384_n.jpg": "42acc358a6f5a930e5de9660946280c0114ead93",
       "/assets/Images/18740623_1363300303717732_665808358938139377_n.jpg": "d5731f51baefec68da516acd6fb0b9cffd431a34",
       "/assets/Images/19275095_1638090422877045_1843372870202033850_n.jpg": "8955ab47e35d8bd39be1cbaa18aa56e09a7a7beb",
+      "/assets/Images/200px-Logo-ICT.ico": "33963128fe59cae9b1f9219698c524c71777d140",
       "/assets/Images/200px-Logo-ICT.png": "1f882be0b119be3e0ec67714ef2e86eff146a47c",
       "/assets/Images/584077.jpg": "66024907fc1d72de82b14eedd2db33b2061d9799",
       "/assets/Images/68840552-security-wallpapers.jpg": "bf77c21a41fe0124c2c4318d10efd30ebd2c3829",
       "/assets/Images/69041929-web-wallpapers.jpg": "591966a2ec969e5615188308ebc20aaa7a0960eb",
       "/assets/Images/algorithm1.jpg": "f9872944ca2da749ceeb4d15346b26512abce450",
+      "/assets/Images/manifest.json": "3d3bdbb3ddd295b9dcebf016e05cd793bc90a160",
       "/assets/Images/maxresdefault.jpg": "68e5a74d08defc3c5e68208f90db1f9b81224a33",
       "/assets/Images/MUICT Logo.png": "32f08402d962be0f885bedac30a9ed9852749d99",
-      "/assets/manifest.json": "8157e66c74999e853700086ac1fb905a604d6863",
-      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-      "/index.html": "b0b30043afa63098dc76f1c36099984920c9ad43"
+      "/assets/manifest.json": "3d3bdbb3ddd295b9dcebf016e05cd793bc90a160",
+      "/favicon.ico": "33963128fe59cae9b1f9219698c524c71777d140",
+      "/index.html": "072726a19fb0a65542993d6deb223e1cc277016f"
     },
     "_generatedFromWebpack": true
   }

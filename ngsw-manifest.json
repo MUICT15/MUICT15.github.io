@@ -2,16 +2,29 @@
   "static": {
     "urls": {
       "/polyfills.721c8b964185839053f7.bundle.js": "290f3eec547b0351df97404d58537a80116a87b9",
-      "/main.b0e629748a8482840b33.bundle.js": "d99fda58758e19b2ab6b4179f4dbda4d8364ba77",
+      "/main.d51b90e98ff6a70f3e2d.bundle.js": "b33935eb2aa0bbec193422c7ca6414fca46cc752",
       "/sw-register.c3a9f56ebf829a0880d3.bundle.js": "6c5694fa18f55de662ff331e4d69d4521033fd80",
-      "/vendor.b23dfd36782081860848.bundle.js": "83ac4646e9d797140ede2fed46b16e5d87189665",
-      "/inline.008c0ebb512ad86a7a75.bundle.js": "f7e3f1893a83a375732b8b409975a89c28d05b44",
+      "/vendor.ba239ef8db5b8b6b14e9.bundle.js": "d2822067859ec5c270f9f7392aceafa61cf1d525",
+      "/inline.4e19c20abe44b790a689.bundle.js": "3f35cb5d694f51a5acd37a815c48e32844ed8b40",
       "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "/assets/Images/1372865.jpg": "03517eeb62191588029683797922f618fc2b9fbf",
+      "/assets/Images/15170845_1180551288659302_1887358985679169948_n.jpg": "d7aadbc135a52e1defb07522fd668504e18e3086",
+      "/assets/Images/15350508_1706457863001341_2964771052103828596_n.jpg": "acb42621c989123d7ba43e1e7b5339984433e46e",
+      "/assets/Images/15822647_1306122962796370_2437455568473249293_n.jpg": "bfbec59ef1efbe6255484b7916a5ab1fd508e5b8",
+      "/assets/Images/15977473_1814481125477752_8128193143795952089_n.jpg": "45badc2c09b8fd318c44652a1f6d834a7d2ad71e",
+      "/assets/Images/16406665_1738459213134539_3337966289851666384_n.jpg": "42acc358a6f5a930e5de9660946280c0114ead93",
+      "/assets/Images/18740623_1363300303717732_665808358938139377_n.jpg": "d5731f51baefec68da516acd6fb0b9cffd431a34",
+      "/assets/Images/19275095_1638090422877045_1843372870202033850_n.jpg": "8955ab47e35d8bd39be1cbaa18aa56e09a7a7beb",
       "/assets/Images/200px-Logo-ICT.png": "1f882be0b119be3e0ec67714ef2e86eff146a47c",
+      "/assets/Images/584077.jpg": "66024907fc1d72de82b14eedd2db33b2061d9799",
+      "/assets/Images/68840552-security-wallpapers.jpg": "bf77c21a41fe0124c2c4318d10efd30ebd2c3829",
+      "/assets/Images/69041929-web-wallpapers.jpg": "591966a2ec969e5615188308ebc20aaa7a0960eb",
       "/assets/Images/algorithm1.jpg": "f9872944ca2da749ceeb4d15346b26512abce450",
-      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
       "/assets/Images/maxresdefault.jpg": "68e5a74d08defc3c5e68208f90db1f9b81224a33",
-      "/index.html": "20d3f9bcad77e60b7dd403971b2d1fe304eabc3a"
+      "/assets/Images/MUICT Logo.png": "32f08402d962be0f885bedac30a9ed9852749d99",
+      "/assets/manifest.json": "8157e66c74999e853700086ac1fb905a604d6863",
+      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "/index.html": "b0b30043afa63098dc76f1c36099984920c9ad43"
     },
     "_generatedFromWebpack": true
   }

@@ -2,13 +2,13 @@
   "static": {
     "urls": {
       "/polyfills.721c8b964185839053f7.bundle.js": "290f3eec547b0351df97404d58537a80116a87b9",
-      "/main.d51b90e98ff6a70f3e2d.bundle.js": "b33935eb2aa0bbec193422c7ca6414fca46cc752",
+      "/main.e60a90f4286061568489.bundle.js": "1aeeddc1e60670ecaa5d123bd47fb9891158859d",
       "/sw-register.c3a9f56ebf829a0880d3.bundle.js": "6c5694fa18f55de662ff331e4d69d4521033fd80",
       "/vendor.ba239ef8db5b8b6b14e9.bundle.js": "d2822067859ec5c270f9f7392aceafa61cf1d525",
-      "/inline.4e19c20abe44b790a689.bundle.js": "3f35cb5d694f51a5acd37a815c48e32844ed8b40",
+      "/inline.911fb2cfef6a9b1a54c6.bundle.js": "7750b268f555ab743bf38ed7c22736ccd9f9db06",
       "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "/assets/Images/1372865.jpg": "03517eeb62191588029683797922f618fc2b9fbf",
       "/assets/Images/15170845_1180551288659302_1887358985679169948_n.jpg": "d7aadbc135a52e1defb07522fd668504e18e3086",
+      "/assets/Images/1372865.jpg": "03517eeb62191588029683797922f618fc2b9fbf",
       "/assets/Images/15350508_1706457863001341_2964771052103828596_n.jpg": "acb42621c989123d7ba43e1e7b5339984433e46e",
       "/assets/Images/15822647_1306122962796370_2437455568473249293_n.jpg": "bfbec59ef1efbe6255484b7916a5ab1fd508e5b8",
       "/assets/Images/15977473_1814481125477752_8128193143795952089_n.jpg": "45badc2c09b8fd318c44652a1f6d834a7d2ad71e",
@@ -26,7 +26,7 @@
       "/assets/Images/MUICT Logo.png": "32f08402d962be0f885bedac30a9ed9852749d99",
       "/assets/manifest.json": "3d3bdbb3ddd295b9dcebf016e05cd793bc90a160",
       "/favicon.ico": "33963128fe59cae9b1f9219698c524c71777d140",
-      "/index.html": "072726a19fb0a65542993d6deb223e1cc277016f"
+      "/index.html": "9b308c9ca297b329dcef68450229aeec7890c78a"
     },
     "_generatedFromWebpack": true
   }

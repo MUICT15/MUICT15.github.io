@@ -1,0 +1,16 @@
+{
+  "name": "MUICT#15",
+  "short_name": "MUICT#15",
+  "theme_color": "#FFFFFF",
+  "background_color": "#3F51B5",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [
+    {
+      "src":"200px-Logo-ICT.png",
+      "sizes": "64x37",
+      "type": "image/png"
+    }
+  ]
+}
